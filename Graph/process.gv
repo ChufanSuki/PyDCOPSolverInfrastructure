@@ -1,0 +1,7 @@
+strict graph G {
+	1 -- 5 [label=R0]
+	1 -- 3 [label=R1]
+	1 -- 2 [label=R2]
+	2 -- 4 [label=R3]
+	2 -- 3 [label=R4]
+}

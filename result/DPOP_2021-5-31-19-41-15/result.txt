@@ -1,0 +1,150 @@
+RandomDCOP_14_3_1.xml:  1態
+messageQuantity:26
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.252s
+Cycle Count: 11
+TotalCost:484
+RunningTime:0.252s
+NCCCs:243
+utilMsgCount:13
+utilMsgSizeAvg:39byte
+total:516byte
+Agent1:1
+Agent2:1
+Agent3:1
+Agent4:1
+Agent5:1
+Agent6:2
+Agent7:2
+Agent8:1
+Agent9:3
+Agent10:1
+Agent11:1
+Agent12:2
+Agent13:2
+Agent14:1
+RandomDCOP_16_3_1.xml:  1態
+messageQuantity:30
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.337s
+Cycle Count: 19
+TotalCost:498
+RunningTime:0.337s
+NCCCs:351
+utilMsgCount:15
+utilMsgSizeAvg:141byte
+total:2124byte
+Agent1:2
+Agent2:3
+Agent3:2
+Agent4:1
+Agent5:3
+Agent6:2
+Agent7:2
+Agent8:2
+Agent9:2
+Agent10:2
+Agent11:3
+Agent12:1
+Agent13:3
+Agent14:2
+Agent15:3
+Agent16:3
+RandomDCOP_18_3_1.xml:  1態
+messageQuantity:34
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.318s
+Cycle Count: 25
+TotalCost:780
+RunningTime:0.318s
+NCCCs:603
+utilMsgCount:17
+utilMsgSizeAvg:163byte
+total:2772byte
+Agent1:3
+Agent2:3
+Agent3:1
+Agent4:3
+Agent5:2
+Agent6:3
+Agent7:1
+Agent8:2
+Agent9:3
+Agent10:3
+Agent11:2
+Agent12:2
+Agent13:1
+Agent14:3
+Agent15:1
+Agent16:2
+Agent17:2
+Agent18:3
+RandomDCOP_20_3_1.xml:  1態
+messageQuantity:38
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.327s
+Cycle Count: 21
+TotalCost:1021
+RunningTime:0.327s
+NCCCs:837
+utilMsgCount:19
+utilMsgSizeAvg:420byte
+total:7980byte
+Agent1:2
+Agent2:2
+Agent3:1
+Agent4:3
+Agent5:3
+Agent6:3
+Agent7:1
+Agent8:3
+Agent9:3
+Agent10:2
+Agent11:2
+Agent12:3
+Agent13:3
+Agent14:3
+Agent15:2
+Agent16:2
+Agent17:1
+Agent18:2
+Agent19:2
+Agent20:1
+RandomDCOP_22_3_1.xml:  1態
+messageQuantity:42
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.789s
+Cycle Count: 27
+TotalCost:1119
+RunningTime:0.789s
+NCCCs:1143
+utilMsgCount:21
+utilMsgSizeAvg:1677byte
+total:35220byte
+Agent1:2
+Agent2:1
+Agent3:2
+Agent4:1
+Agent5:1
+Agent6:3
+Agent7:1
+Agent8:2
+Agent9:2
+Agent10:2
+Agent11:2
+Agent12:2
+Agent13:2
+Agent14:1
+Agent15:3
+Agent16:2
+Agent17:2
+Agent18:1
+Agent19:1
+Agent20:2
+Agent21:1
+Agent22:3

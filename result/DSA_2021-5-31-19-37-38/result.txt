@@ -1,0 +1,13 @@
+1ÂÖ
+messageQuantity:18
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.473s
+Cycle Count: 802
+TotalCost:55.0
+RunningTime:0.473s
+Agent1:3
+Agent2:3
+Agent3:5
+Agent4:1
+Agent5:1

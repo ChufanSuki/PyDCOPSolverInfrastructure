@@ -1,0 +1,16 @@
+messageQuantity:8
+messageLostQuantity:0
+lostRatio:0%
+Mailer stopped, totalTime:0.157s
+Cycle Count: 5
+TotalCost:18
+RunningTime:0.157s
+NCCCs:1300
+utilMsgCount:4
+utilMsgSizeAvg:130byte
+total:520byte
+Agent1:10
+Agent2:3
+Agent3:4
+Agent4:1
+Agent5:8
